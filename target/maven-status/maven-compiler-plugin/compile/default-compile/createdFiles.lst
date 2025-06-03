@@ -1,0 +1,4 @@
+com/saktas/couponservice/models/Coupon.class
+com/saktas/couponservice/controllers/CouponRestController.class
+com/saktas/couponservice/CouponserviceApplication.class
+com/saktas/couponservice/repositories/CouponRepository.class
